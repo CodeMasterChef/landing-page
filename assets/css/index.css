@@ -8,8 +8,7 @@
 
 header {
     position: relative;
-    /* background: #5B57F1; */
-    background: #3A5BCE;
+    background: #ffffff;
     color: white;
     padding: 0px 0px;
     z-index: 9999;
@@ -35,8 +34,7 @@ header .menu-btn {
     top: 10px;
     right: 10px;
     z-index: 99999;
-    background: #3A5BCE;
-    /* background: #5B57F1; */
+    background: #FF7F0A;
     padding: 10px;
     opacity: 0.8;
     border-radius: 5px;
@@ -58,8 +56,7 @@ header li {}
 header li a {
     display: block;
     padding-left: 40px;
-    /* min-width: 100px; */
-    color: white;
+    color: #FF7F0A;
     text-decoration: none;
     font-weight: 500;
     font-size: 18px;
@@ -67,7 +64,7 @@ header li a {
 
 header li a:hover, header li a:active {
     text-decoration: none;
-    color: white;
+    color: #17588F;
 }
 
 @media screen and (max-width: 991.98px) {
@@ -87,10 +84,8 @@ header li a:hover, header li a:active {
         left: 0px;
         width: 100%;
         height: 100%;
-        /* background: #5B57F1; */
-        background: #3A5BCE;
-        /* background: #F8F8FB; */
-        /* background: white; */
+        background: #f4f4f4;
+       
     }
     header ul.active {
         display: block;
@@ -105,7 +100,6 @@ header li a:hover, header li a:active {
         border-bottom: 1px #ffffff1f solid;
     }
     header ul li a:hover, header ul li a:active {
-        /* background: #4640e2; */
         background: #3A5BCE;
     }
     .section-1 .left {
