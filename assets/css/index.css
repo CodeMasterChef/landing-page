@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
 .img-responsive{
     max-width: 100%; 
     height: auto;
@@ -118,6 +122,8 @@ header li a:hover, header li a:active {
 .section-title {
     text-align: center;
     margin-bottom: 50px;
+    color: #020253;
+    text-transform: uppercase;
 }
 
 /* ---------------------- sec 1 --------------------- */
@@ -306,7 +312,7 @@ header li a:hover, header li a:active {
     padding: 8px 20px;
     color: white;
     font-size: 14px;
-    background: #3185C0;
+    background: #FF7F0A;
     border-radius: 30px;
 }
 
@@ -483,6 +489,7 @@ footer .contact-info .contact-item .description {
     color: white;
     font-family: 'Nunito', sans-serif;
     font-size: 18px;
+    padding-bottom: 24px;
 }
 
 .expertise .title {
@@ -594,3 +601,23 @@ footer .contact-info .contact-item .description {
     font-size: 20px;
    }
    
+   /*----- services ----- */
+
+.services .icon-container { 
+    margin: auto;
+    z-index: 1;
+    position: relative;
+   }
+
+.services img {
+    padding: 1px;
+}
+
+.services .item-body{
+    background: #F3F6FE;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    top: -46px;
+    position: relative;
+    padding: 36px 0;
+}

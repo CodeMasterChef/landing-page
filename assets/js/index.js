@@ -89,9 +89,10 @@ $(document).ready(function () {
         investment_solutions_description: {
             en: 'With an investment experience, we look forward to consulting and connecting to help businesses and startups. From there, approach to and promote investment more effectively.',
             vi: 'Với kinh nghiệp đầu tư, chúng tôi mong muốn tư vấn và kết nối nhằm trợ giúp các doanh nghiệp và Startup. Từ đó tiến tới tiếp cận và xúc tiến đầu tư hiệu quả hơn.'
-
-
-
+        },
+        services: {
+            en :'services',
+            vi: 'Dịch vụ phát triển',
         }
 
 
