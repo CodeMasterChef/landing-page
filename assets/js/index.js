@@ -56,6 +56,18 @@ $(document).ready(function () {
         },
         Contact : {
             vi: 'Liên hệ'
+        },
+        'our_expertise': {
+            en: 'Our Expertise',
+            vi: 'Chuyên môn của chúng tôi',
+        },
+        technology_solutions: {
+            en: 'Technology Solutions',
+            vi: 'Giải pháp công nghệ',
+        },
+        technology_solutions_description: {
+            en: 'With a strong technology knowledge, we build technology platforms for businesses and work together to build products with startups. This helps businesses and startups focus more on their business model.',
+            vi: 'Với nên tảng công nghệ, chúng tôi hướng tới xây dựng nền tảng công nghệ cho các doanh nghiệp và đồng hành xây dựng sản phẩm cùng các Startup. Từ đó giúp cho các doanh nghiêp và các startup tập trung hơn vào mô hình kinh doanh của mình.',
         }
 
 
