@@ -441,17 +441,16 @@ footer .company-name {
 footer .description-1 {
     font-size: 14px;
     margin-top: 20px;
-    margin-bottom: 20px;
-  
+    text-align: center;
 }
 
-footer .contact-list {
-    margin-bottom: 20px;
+footer .social-icon{
+    border-radius: 50%;
+    border: 1px solid #fff;
 }
 
-footer .contact-list a {
-    display: inline-block;
-    margin-right: 20px;
+footer .social-icon img{
+   padding: 1px;
 }
 
 footer .contact-info .contact-item {
