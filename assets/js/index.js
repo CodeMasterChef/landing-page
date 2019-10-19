@@ -93,7 +93,60 @@ $(document).ready(function () {
         services: {
             en :'services',
             vi: 'Dịch vụ phát triển',
+        },
+        partners: {
+            en: "Partners",
+            vi: "Đối tác",
+        },
+        gsoft_description: {
+            en: 'G-Soft Software Solution Company',
+            vi: 'Công ty giải pháp phần mềm G-Soft'
+        },
+        gsoft_long_description: {
+            en: 'Software solution company for business and life.',
+            vi: 'Đơn vị giải pháp phần mềm cho doanh nghiệp và đời sống.',
+        },
+        smartsys_description: {
+            en: 'SmartSys Software Solution Company',
+            vi: 'Công ty giải pháp công nghệ SmartSys'
+        },
+        smartsys_long_description: {
+            en: 'The company specializes in providing solutions and bringing technology to life.',
+            vi: 'Đơn vị chuyên cung cấp giải pháp và đưa công nghệ vào đời sống.',
+        },
+        fihe_description: {
+            en: 'Statup about financial investment',
+            vi: 'Statup về đầu tư tài chính'
+        },
+       fihe_long_description: {
+            en: 'Startup provides solutions for bank loans quickly and conveniently.',
+            vi: ' Đơn vị cung cấp giải pháp vay vốn ngân hàng nhanh chóng và tiện lợi.',
+        },
+        fiop_company_name: {
+            en: 'FIOP JOINT STOCK COMPANY',
+            vi: ' CÔNG TY CỔ PHẨN GIẢI PHÁP CÔNG NGHỆ FIOP',
+        },
+        fiop_business_license: {
+            en: 'Business license No. 0315457199 issued on January 3, 2019',
+            vi: 'Giấy CNDKDN Số 0315457199 do Sở KH và ĐT cấp ngày 03/01/2019'
+        },
+        head_office_address: {
+            en: ' F18 Simcity Premier Homes, Street 4, Truong Thanh ward, District 9, Ho Chi Minh city',
+            vi: ' F18 Simcity Premier Homes, đường Số 4, phường Trường Thạnh, Quận 9, TP. Hồ Chí Minh'
+        },
+        branch_address: {
+            en: '21A1, Tang Nhon Phu Street, Tang Nhon Phu A Ward, District 9, Ho Chi Minh City',
+            vi: '21A1, đường Tăng Nhơn Phú, phường Tăng Nhơn Phú A, Quận 9, TP. Hồ Chí Minh'
+        },
+        contact_us: {
+            en: 'Contact Us',
+            vi: 'Liên hệ với chúng tôi'
+        },
+        send_message: {
+            en: 'Send Message',
+            vi: 'Gửi tin nhắn',
         }
+
 
 
     }

@@ -5,7 +5,7 @@ body {
 }
 
 .img-responsive{
-    max-width: 100%; 
+    width: 100%; 
     height: auto;
     display:block 
 }
@@ -383,7 +383,6 @@ header li a:hover, header li a:active {
     text-align: center;
 }
 
-.section-7 .item img {}
 
 .section-7 .item .title {
     font-size: 24px;
@@ -419,8 +418,8 @@ header li a:hover, header li a:active {
 }
 
 footer {
-    background: #F8F8FB;
-    color: #888888;
+    background: #020253;
+    color: #fff;
     padding: 50px 0px;
 }
 
@@ -430,24 +429,20 @@ footer .footer-section {
 
 footer .title {
     font-weight: bold;
-    font-size: 18px;
-    color: #888888;
     margin-bottom: 20px;
 }
 
 footer .company-name {
     font-weight: bold;
-    font-size: 14px;
+    font-size: 18px;
     text-transform: uppercase;
-    color: #888888;
-    margin-top: 20px;
 }
 
 footer .description-1 {
-    color: #888888;
+    font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
-    font-size: 14px;
+  
 }
 
 footer .contact-list {
@@ -458,12 +453,6 @@ footer .contact-list a {
     display: inline-block;
     margin-right: 20px;
 }
-
-footer .copyright {
-    color: #888888;
-}
-
-footer .contact-info {}
 
 footer .contact-info .contact-item {
     display: flex;
@@ -476,10 +465,20 @@ footer .contact-info .contact-item img {
     height: 20px;
     margin-right: 20px;
 }
-
-footer .contact-info .contact-item .description {
-    color: #888888;
+footer .copyright{
+    text-align: center;
+    font-size: 14px;
 }
+
+footer a {
+    color: #F3F3F3;
+    font-weight: bolder;
+}
+
+footer b {
+    font-weight: bolder;
+}
+
 
 /* -------------- expertise ------------- */
 
@@ -620,4 +619,60 @@ footer .contact-info .contact-item .description {
     top: -46px;
     position: relative;
     padding: 36px 0;
+}
+
+
+/* ---- Partner ---- */
+.partner .card{
+    background: #003563;
+    box-shadow: 1px 4px 10px rgba(0, 0, 0, 0.51);
+    border-radius: 5px;
+    margin: 6px 0;
+}
+
+.partner  .card-header {
+    color: white;
+    overflow: hidden;
+}
+
+.partner .triangle {
+    width: 290.35px;
+    height: 170.57px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #D86800;
+    transform: rotate(-45deg);
+    left: -188px;
+    top: -56px;
+}
+
+.partner .card-body {
+    position: relative;
+}
+
+.partner .card-header img {
+    position: relative;
+    z-index: 1;
+    top: 0;
+}
+
+.partner .card-body img {
+  opacity: 0.5;
+}
+
+
+.partner .card-body p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #F3F3F3;
+
 }
