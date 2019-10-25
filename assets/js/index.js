@@ -26,14 +26,6 @@ $(window).ready(() => {
 })
 
 $('header ul li a').click(function (e) {
-    e.preventDefault()
-
-    let href = $(this).attr('href')
-
-    $('html, body').animate({
-        scrollTop: $(href).offset().top
-    }, 500)
-
 
     closeMenu()
 
