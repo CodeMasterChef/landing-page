@@ -75,11 +75,11 @@ $(document).ready(function () {
             vi: 'Với nên tảng công nghệ, chúng tôi hướng tới xây dựng nền tảng công nghệ cho các doanh nghiệp và đồng hành xây dựng sản phẩm cùng các Startup. Từ đó giúp cho các doanh nghiêp và các startup tập trung hơn vào mô hình kinh doanh của mình.',
         },
         business_solution: {
-            en: 'Business Solution',
+            en: 'Business Solutions',
             vi: 'Giải pháp Kinh Doanh',
         },
         business_solution_description: {
-            en: 'We provide business solutions and operational resources. FIOP want to build a business workforce so that businesses and startups can focus on operating their business plan in the simplest way.',
+            en: 'We provide business solutions and operational resources. FIOP wants to build a business workforce so that businesses and startups can focus on operating their business plan in the simplest way.',
             vi: 'Chúng tôi cung cấp giải pháp kinh doanh và nguồn lực vận hành. FIOP hướng tới xây dựng đội ngũ nhân lực kinh doanh để các Doanh nghiệp và Startup có thể tập trung vận hành kế hoạch kinh doanh của mình một cách đơn giản nhất.'
         },
         investment_solutions: {
@@ -93,6 +93,10 @@ $(document).ready(function () {
         services: {
             en :'services',
             vi: 'Dịch vụ phát triển',
+        },
+        view_more: {
+            en: 'View More',
+            vi: 'Xem thêm'
         },
         partners: {
             en: "Partners",
@@ -145,7 +149,16 @@ $(document).ready(function () {
         send_message: {
             en: 'Send Message',
             vi: 'Gửi tin nhắn',
+        },
+        enable_entrepreneurs_to_build_anything: {
+            en: 'Enable Entrepreneurs to Build Anything',
+            vi: 'Hỗ trợ doanh nghiệp của bạn xây dựng sản phẩm'
+        },
+        huge_opportunities: {
+            en: 'Huge opportunities are being missed because people with great ideas lack the technical ability to execute. FIOP ’s mission is to enable entrepreneurs to build anything. We combine our talent, technology and partnership model to create next-generation technology.',
+            vi: 'Hàng triệu cơ hội để biến những ý tưởng lớn của bạn trở thành hiện thực đang bị bạn bỏ lỡ chỉ vì bạn không có khả năng triển khai giải pháp công nghệ. Hiểu được điều đó, FIOP được sinh ra với sứ mệnh hiện thực hóa ý tưởng của bạn. FIOP chú trọng vào xây dựng con người, áp dụng công nghệ tiên tiến và hệ sinh thái công nghệ sẵn có để kiến tạo thế hệ công nghệ tiếp theo.'
         }
+       
 
 
 
