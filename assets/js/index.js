@@ -149,6 +149,18 @@ $(document).ready(function () {
         huge_opportunities: {
             en: 'Huge opportunities are being missed because people with great ideas lack the technical ability to execute. FIOP ’s mission is to enable entrepreneurs to build anything. We combine our talent, technology and partnership model to create next-generation technology.',
             vi: 'Hàng triệu cơ hội để biến những ý tưởng lớn của bạn trở thành hiện thực đang bị bạn bỏ lỡ chỉ vì bạn không có khả năng triển khai giải pháp công nghệ. Hiểu được điều đó, FIOP được sinh ra với sứ mệnh hiện thực hóa ý tưởng của bạn. FIOP chú trọng vào xây dựng con người, áp dụng công nghệ tiên tiến và hệ sinh thái công nghệ sẵn có để kiến tạo thế hệ công nghệ tiếp theo.'
+        },
+        we_are_in_the_disruptive_technology_business: {
+            en: 'We are in the disruptive technology business',
+            vi: 'Chúng ta đang trong thời kỳ bùng nổ của doanh nghiệp công nghiệp'
+        },
+        building_the_technology_startup: {
+            en: 'Building the technology startup & applying the technology to improve the current business',
+            vi: 'Xây dựng các startup công nghệ và áp dụng công nghệ để tạo nên sự đột phá cho doanh nghiệp hiện hữu',
+        },
+        fiop_partners_with_founders: {
+            en: 'FIOP partners with founders, business leaders, and enterprises to develop groundbreaking solutions that disrupt industries and improve lives.',
+            vi: 'Những thành viên của FIOP bao gồm các nhà sáng lập, các nhà lãnh đạo và các công ty liên doanh cùng nhau phát triển các giải pháp nằm đột phá thị trường và cải thiện cuộc sống hiện tại. Từ các công ty khởi nghiệp một thành viên đến các doanh nghiệp lớn, các tổ chức giáo dục, tổ chức về y tế, chính phủ, tài chính và tổ chức phi lợi nhuận, chúng tôi tạo ra các sản phẩm để hỗ trợ khách hàng. Các sản phẩm của chúng tôi hỗ trợ khách hàng giải quyết các vấn đề vận hành doanh nghiệp để giúp họ tập trung vào việc mà họ thích.'
         }
        
 
