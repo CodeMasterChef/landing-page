@@ -213,6 +213,14 @@ $(document).ready(function () {
         your_company_is_experiencing_an_innovation_gap_but_recognizes_the_need: {
             en: 'Your company is experiencing an innovation gap, but recognizes the need to adapt and stay agile. We collaborate with organizations to form internal start-up teams to conceptualize and build new ventures.',
             vi: 'Doanh nghiệp hiện tại của bạn đã ổn định nhưng bạn nhận thấy rằng cần phải thích nghi với sử đổi mối nhanh chóng của thị trường. Chúng tôi hợp tác với các tổ chức để thành lập các nhóm khởi nghiệp nội bộ để lên ý tưởng và xây dựng các dự án mới cho doanh nghiệp.',
+        },
+        leadership: {
+            en: 'Leadership',
+            vi: 'Lãnh đạo',
+        },
+        our_leadership_team_is_comprised_of_entrepreneurs: {
+            en: 'Our leadership team is comprised of entrepreneurs and business builders with experience making business model and technology product',
+            vi: 'Đội ngũ lãnh đạo của chúng tôi bao gồm các doanh nhân và nhà xây dựng doanh nghiệp với kinh nghiệm chuyên sâu về mô hình kinh doanh và sản phẩm công nghệ.',
         }
        
         
