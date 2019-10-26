@@ -161,8 +161,61 @@ $(document).ready(function () {
         fiop_partners_with_founders: {
             en: 'FIOP partners with founders, business leaders, and enterprises to develop groundbreaking solutions that disrupt industries and improve lives.',
             vi: 'Những thành viên của FIOP bao gồm các nhà sáng lập, các nhà lãnh đạo và các công ty liên doanh cùng nhau phát triển các giải pháp nằm đột phá thị trường và cải thiện cuộc sống hiện tại. Từ các công ty khởi nghiệp một thành viên đến các doanh nghiệp lớn, các tổ chức giáo dục, tổ chức về y tế, chính phủ, tài chính và tổ chức phi lợi nhuận, chúng tôi tạo ra các sản phẩm để hỗ trợ khách hàng. Các sản phẩm của chúng tôi hỗ trợ khách hàng giải quyết các vấn đề vận hành doanh nghiệp để giúp họ tập trung vào việc mà họ thích.'
+        },
+        view_our_products: {
+            en: 'See Our Products',
+            vi: 'Xem sản phẩm của chúng tôi'
+        },
+        venture_development_as_a_service: {
+            en: 'Venture Development as a Service',
+            vi: 'Venture Development as a Service',
+        },
+        providing_strategic_technical_experience_resources: {
+            en: 'Providing strategic, technical experience and resources',
+            vi: 'Cung cấp chiến lược, kỹ thuật, kinh nghiệm và nhân sự',
+        },
+        as_partner_of_startups_we_bring_together_teams_to_define: {
+            en: 'As partner of startups, we bring together teams to define problems and design solutions for impact. Beyond design and development, we provide strategic innovation, system building, operating resources services to turn your ideas into sustainable, revenue-generating products.',
+            vi: 'Là đối tác của các công ty khởi nghiệp, chúng tôi thành lập các nhóm để phân tích vấn đề và thiết kế các giải pháp để giải quyết vấn đề đó. Ngoài việc thiết kế và phát triển, chúng tôi tư vấn chiến lược, xây dựng hệ thống, vận dụng các nguồn lực sẵn có để biến ý tưởng của bạn thành các sản phẩm thương mại.',
+        },
+        our_partnership_approach: {
+            en: 'Our Partnership approach',
+            vi: 'Phương pháp hợp tác của chúng tôi',
+        },
+        forward_thinking_brands_understand_that_greatness_in_a_disruptive_market:{
+            en: 'Forward-thinking brands understand that greatness in a disruptive market requires ambition, talent, and a culture that believes . We’re smarter together. We bring a depth of expertise in a variety of industries including Financial Services, Healthcare, Real Estate, ERP, Retail,  Ecommerce, Saleforce, Logistics, Virtual Reality, and Education.',
+            vi: 'Các doanh nghiệp luôn biết rằng để tạo nên sự đột phá thị trường thì phải cần đến khát vọng, tài năng và một nền văn hóa tin tưởng. Chúng ta sẽ cùng nhau phát triển. Chúng tôi mang đến những kiến thức chuyên môn sâu rộng trong nhiều ngành công nghiệp bao gồm Dịch vụ tài chính, Chăm sóc sức khỏe, Bất động sản, ERP, Bán lẻ, Thương mại điện tử, Bán hàng, Vận tải, Thực tế ảo và Giáo dục.'
+        },
+        let_build_something_great_together:{
+            en: 'Let’s Build Something Great Together',
+            vi: 'Hãy cùng nhau xây dựng một cái gì đó tuyệt vời',
+        },
+        engagement_model: {
+            en: 'Engagement Model',
+            vi: 'Mô hình tham gia',
+        },
+        idea_incubator: {
+            en: 'Idea Incubator',
+            vi: 'Lò ấp ý tưởng',
+        },
+        need_to_confirm_whether_your_idea: {
+            en: 'Need to confirm whether your idea is worth investing time and resources in? We’ll work with you conceptualize, prototype, and package your idea into a comprehensive plan to test the market or raise capital.',
+            vi: 'Bạn cần đánh giá ý tưởng của bạn có khả thi hay không? Chúng tôi sẽ cũng bạn định hình, tạo bản mẫu và đóng gói ý tưởng của bạn thành một kế hoạch thực thụ để kiểm thử thị trường và gọi vốn.'
+        },
+        you_have_proven_your_business_model_and_have_solid_traction:{
+            en: 'You have proven your business model and have solid traction. Now you need a digital partner to evolve your product and scale fast. We’ll help you grow your business with on-demand design, engineering, strategy, marketing and resources.',
+            vi: 'Bạn đã chứng minh được mô hình kinh doanh của mình là khải thi và đang tìm một đơn vị công nghệ để tạo cách mạng hóa sản phẩm hiện tại. Chúng tôi sẽ giúp bạn phát triển doanh nghiệp của bạn bằng việc thiết kết, kĩ thuật hóa, lập chiến lược kinh doanh, marketing và cung cấp nguồn lực.'
+        },
+        enterprise: {
+            en: 'Enterprise',
+            vi: 'Doanh nghiệp',
+        },
+        your_company_is_experiencing_an_innovation_gap_but_recognizes_the_need: {
+            en: 'Your company is experiencing an innovation gap, but recognizes the need to adapt and stay agile. We collaborate with organizations to form internal start-up teams to conceptualize and build new ventures.',
+            vi: 'Doanh nghiệp hiện tại của bạn đã ổn định nhưng bạn nhận thấy rằng cần phải thích nghi với sử đổi mối nhanh chóng của thị trường. Chúng tôi hợp tác với các tổ chức để thành lập các nhóm khởi nghiệp nội bộ để lên ý tưởng và xây dựng các dự án mới cho doanh nghiệp.',
         }
        
+        
 
 
 
@@ -171,7 +224,8 @@ $(document).ready(function () {
 
     $('#englishIcon').hide();
 
-    $('#vietnameseIcon').click(()=>{
+    $('#vietnameseIcon').click((event)=>{
+        event.preventDefault()
         translator.lang('vi');
         $('#englishIcon').show();
         $('#vietnameseIcon').hide();

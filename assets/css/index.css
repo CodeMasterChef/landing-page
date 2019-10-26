@@ -685,3 +685,34 @@ footer b {
     font-size: 32px;
     text-align: center;
 }
+
+.more-btn {
+    padding: 8px 20px;
+    color: white;
+    font-size: 14px;
+    background: #FF7F0A;
+    border-radius: 30px;
+}
+
+.more-btn:hover{ 
+    color: white;
+}
+
+.about-engagement-model-title { 
+    color: #F27909; 
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.flex-center{ 
+    display: flex; 
+    justify-content: center;
+}
+
+.text-primary { 
+    color: #F27909 !important;
+}
+
+.text-secondary { 
+    color: #003563;
+}
