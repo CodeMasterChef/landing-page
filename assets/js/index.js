@@ -281,6 +281,26 @@ $(document).ready(function () {
         fihe_is_a_fintech_startup_aimed_at_connecting_users_banks_and_properties:{
             en: 'FIHE is a fintech startup, aimed at connecting users, banks, and properties.',
             vi: 'FIHE là một công ty starup trong lĩnh vực fintech, nhằm mục đích kết nối người dùng, ngân hàng và tài sản.',
+        },
+        head_office_branches: {
+            en: 'Head Office & branches',
+            vi: 'Trụ sở & chi nhánh'
+        },
+        map: {
+            en: 'Map',
+            vi: 'Bản đồ'
+        },
+        head_office: {
+            en: 'Head Office',
+            vi :'Trụ sở chính',
+        },
+        branch: {
+            en: 'Branch',
+            vi: 'Chi nhánh',
+        },
+        phone: {
+            en: 'Phone',
+            vi: 'Số điện thoại',
         }
        
         
