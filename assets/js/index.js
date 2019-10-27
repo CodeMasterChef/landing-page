@@ -221,6 +221,30 @@ $(document).ready(function () {
         our_leadership_team_is_comprised_of_entrepreneurs: {
             en: 'Our leadership team is comprised of entrepreneurs and business builders with experience making business model and technology product',
             vi: 'Đội ngũ lãnh đạo của chúng tôi bao gồm các doanh nhân và nhà xây dựng doanh nghiệp với kinh nghiệm chuyên sâu về mô hình kinh doanh và sản phẩm công nghệ.',
+        },
+        we_build_startups_and_technology_products: {
+            en: 'We build startups & technology products',
+            vi: 'Chúng tôi xây dựng các startup & các sản phẩm công nghệ'
+        },
+        we_create_value_by: {
+            en: 'We create value by',
+            vi: 'Chúng tôi tạo ra giá trị bởi'
+        },
+        building_scalable_platforms_from_initial_mvp_stage_to_exit: {
+            en: 'Building scalable platforms from initial MVP stage to exit',
+            vi: 'Xây dựng nền tảng có khả năng mở rộng từ giai đoạn khởi tạo, MVP đến exit',
+        },
+        transforming_legacy_systems_into_modern_digital_platforms: {
+            en: 'Transforming legacy systems into modern digital platforms',
+            vi: 'Chuyển đổi các hệ thống hiện tại sang các hệ thống số hóa',
+        },
+        scaling_startups_with_on_demand_engineering: {
+            en: 'Scaling startups with on-demand engineering',
+            vi: 'Mở rộng các starup với hoạt động phát triển kỹ thuật công nghệ',
+        },
+        building_the_software_system_for_enterprises:{
+            en: 'Building the software system for enterprises',
+            vi: 'Xây dựng các sản phẩm phần mềm cho doanh nghiệp',
         }
        
         

@@ -684,6 +684,8 @@ footer b {
     color: #F3F3F3;
     font-size: 28px;
     text-align: center;
+    text-transform: uppercase;
+    width: 100%;
 }
 
 .more-btn {
@@ -715,4 +717,8 @@ footer b {
 
 .text-secondary { 
     color: #003563;
+}
+
+.background-secondary {
+    background: #FAFBFF;
 }
