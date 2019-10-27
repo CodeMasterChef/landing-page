@@ -245,6 +245,42 @@ $(document).ready(function () {
         building_the_software_system_for_enterprises:{
             en: 'Building the software system for enterprises',
             vi: 'Xây dựng các sản phẩm phần mềm cho doanh nghiệp',
+        },
+        powering_the_future_of_business: {
+            en: 'Powering the future of business',
+            vi: 'Mang lại sức mạnh tương lai cho doanh nghiệp'
+        },
+        has_partnered_with_startups_government_and_companies :{
+            en: 'Has partnered with startups, government and companies to build ground breaking solutions that disrupt industries and improve lives. We collaborate closely to create products that define the future of their businesses.',
+            vi: 'Chúng tôi đã hợp tác với các công ty khởi nghiệp, chính phủ và các công ty để xây dựng các giải pháp đột phá. Điều đó tạo nên sự đột phá các ngành công nghiệp hiện tại và tạo nên giá trị cho xã hội. Chúng tôi hợp tác chặt chẽ để tạo ra các sản phẩm định hình tương lai doanh nghiệp.'
+        },
+        featured_products: {
+            en: 'Featured Products',
+            vi: 'Sản phẩm tiêu biểu',
+        },
+        a_rating_feedback_platform_to_capture_the_customer_feedback_during_providing_the_services: {
+            en: 'A rating & feedback platform to capture the customer feedback during  providing the services.',
+            vi: 'Nền tảng đánh giá và thu thập phản hồi của khách hàng về sản phẩm và dịch vụ.',
+        },
+        it_is_an_information_portal_of_state_agencies_it_also_helps_the_state_agencies_handle_some_administrative_procedures_and_get_feedback_from_citizen:{
+            en: 'It is an information portal of state agencies, It also helps the state agencies handle some administrative procedures and get feedback from citizen.',
+            vi: 'Hệ thống cổng thông tin của các cơ quan nhà nước dành cho người dân. Ngoài ra, hệ thống cung cấp giải pháp kĩ thuật cho các cơ quan nhà nước xử lý thủ tục hành chính và nhận phản hồi từ người dân.'
+        },
+        a_system_to_help_enterprises_manage_their_sales_force: {
+            en: 'A system to help enterprises manage their sales force.',
+            vi: 'Một hệ thống giúp doanh nghiệp quản lý lực lượng bán hàng.'
+        },
+        it_is_a_system_to_help_state_agencies_report:{
+            en: 'It is a system to help state agencies report, statistics, and from that makes plan for next period.',
+            vi: 'Hệ thống giúp các cơ quan nhà nước báo cáo, thống kê và từ đó lập kế hoạch cho từng giai đoạn trong tương lai.'
+        },
+        it_is_a_system_to_help_selling_goods_or_services_to_customers_through_kiosk: {
+            en: 'It is a system to help selling goods or services to customers through Kiosk.',
+            vi: 'Đây là một hệ thống giúp bán hàng hóa và dịch vụ  thông qua Kiosk.',
+        },
+        fihe_is_a_fintech_startup_aimed_at_connecting_users_banks_and_properties:{
+            en: 'FIHE is a fintech startup, aimed at connecting users, banks, and properties.',
+            vi: 'FIHE là một công ty starup trong lĩnh vực fintech, nhằm mục đích kết nối người dùng, ngân hàng và tài sản.',
         }
        
         
